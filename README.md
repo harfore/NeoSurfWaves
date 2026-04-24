@@ -1,1 +1,1 @@
-# NeoSurfWaves
+# Neo Surf Waves
