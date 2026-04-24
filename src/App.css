@@ -1,0 +1,56 @@
+:root {
+  --color-black: #000;
+  margin: 0;
+  --box-shadow-standard: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+html {
+  margin: 0;
+}
+
+a {
+  cursor: pointer;
+}
+
+.generic-page {
+  padding: 8rem 8% 5%;
+}
+
+.page-section {
+  margin-top: 1rem;
+  padding-top: 1rem;
+}
+
+.page-title {
+  text-align: center;
+}
+
+button {
+  width: 9rem;
+  height: 4rem;
+  border: none;
+  background-color: yellow;
+  border-radius: 20px;
+  font-size: 1rem;
+  font-weight: bold;
+  box-shadow: var(--box-shadow-standard);
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #000;
+  color: #fff;
+}
+
+.image-visual {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  margin: 2rem auto;
+}
+
+.image_placeholder {
+  border: 1.5px solid #000;
+  width: 20rem;
+  height: 20rem;
+}
