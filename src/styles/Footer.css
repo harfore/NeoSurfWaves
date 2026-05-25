@@ -1,0 +1,15 @@
+.footer {
+    width: 100vw;
+    background-color: #ececec;
+    text-decoration: none;
+    color: #000 !important;
+    padding-bottom: 4rem;
+    height: 5rem;
+}
+
+.external_links {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
