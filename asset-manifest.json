@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/neosurfwaves/static/css/main.86cbe7b8.css",
-    "main.js": "/neosurfwaves/static/js/main.c4f39ffd.js",
-    "static/js/453.1d655959.chunk.js": "/neosurfwaves/static/js/453.1d655959.chunk.js",
-    "static/media/logo.png": "/neosurfwaves/static/media/logo.7ca82df222336e6b754d.png",
-    "index.html": "/neosurfwaves/index.html",
-    "main.86cbe7b8.css.map": "/neosurfwaves/static/css/main.86cbe7b8.css.map",
-    "main.c4f39ffd.js.map": "/neosurfwaves/static/js/main.c4f39ffd.js.map",
-    "453.1d655959.chunk.js.map": "/neosurfwaves/static/js/453.1d655959.chunk.js.map"
+    "main.css": "/static/css/main.86cbe7b8.css",
+    "main.js": "/static/js/main.67b22152.js",
+    "static/js/453.1d655959.chunk.js": "/static/js/453.1d655959.chunk.js",
+    "static/media/logo.png": "/static/media/logo.7ca82df222336e6b754d.png",
+    "index.html": "/index.html",
+    "main.86cbe7b8.css.map": "/static/css/main.86cbe7b8.css.map",
+    "main.67b22152.js.map": "/static/js/main.67b22152.js.map",
+    "453.1d655959.chunk.js.map": "/static/js/453.1d655959.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86cbe7b8.css",
-    "static/js/main.c4f39ffd.js"
+    "static/js/main.67b22152.js"
   ]
 }
