@@ -1,6 +1,6 @@
 #header {
     background-color: yellow;
-    height: 7rem;
+    height: 5rem;
     color: #000 !important;
     display: flex;
     align-items: center;
@@ -14,8 +14,8 @@
 
 
 .header_logo {
-    /* width: 25%; */
-    max-width: 30%;
+    height: 5rem;
+    width: auto;
     margin: auto;
 }
 

@@ -4,8 +4,8 @@ html {
 
 body {
   margin: 0;
-  font-family: cursive;
-  color: (--color-black);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: var(--color-black);
 }
 
 * {

@@ -42,11 +42,6 @@ export const sections = [
             },
             {
                 artist_index: 2,
-                artist_name: "Madison Beer",
-                picture: ""
-            },
-            {
-                artist_index: 3,
                 artist_name: "Yotam",
                 picture: ""
             }
