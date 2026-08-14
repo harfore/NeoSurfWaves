@@ -26,7 +26,7 @@ a {
 }
 
 button {
-  width: 9rem;
+  width: auto;
   height: 4rem;
   border: none;
   background-color: yellow;
@@ -34,10 +34,15 @@ button {
   font-size: 1rem;
   font-weight: bold;
   box-shadow: var(--box-shadow-standard);
+  padding: 0 1rem;
 }
 
 button:hover {
   cursor: pointer;
   background-color: #000;
   color: #fff;
+}
+
+p {
+  font-size: 1.25rem;
 }

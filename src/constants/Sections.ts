@@ -1,4 +1,4 @@
-// import sbs from '../assets/images/SBS.png';
+import max from '../assets/images/max_morton.png';
 
 export const sections = [
     {
@@ -38,7 +38,7 @@ export const sections = [
             {
                 artist_index: 1,
                 artist_name: "Max Morton",
-                picture: "",
+                picture: max,
             },
             {
                 artist_index: 2,
