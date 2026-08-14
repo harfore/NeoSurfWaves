@@ -24,7 +24,6 @@ function App() {
           <Route path="/agenda" element={<Agenda />} />
         </Routes>
       </BrowserRouter>
-      <Footer />
     </div>
   );
 };
